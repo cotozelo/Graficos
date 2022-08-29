@@ -1,6 +1,6 @@
 # Graficos
 Tutoriais sobre várias bibliotecas gráficas.
 
-## <a href="https://www.kaggle.com/c/lish-moa">Plotly</a>
+## <a href="https://github.com/cotozelo/Graficos/blob/main/Seaborn.ipynb">Seaborn</a>
 
-## <a href="https://www.kaggle.com/c/lish-moa">Seaborn</a>
+## <a href="https://github.com/cotozelo/Graficos/blob/main/Plotly.ipynb">Plotly</a>
